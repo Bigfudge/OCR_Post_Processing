@@ -1,0 +1,8 @@
+Evaluation for directory: ./Evaluation-reports/2019-07-17 21:40/output/TesseractGrepect/
+
+Prima evaluation:
+ WordAccuracy: 0.08092485549132948	 CharacterAccuracy:0.442914515203671 
+
+Språkbanken Evaluation Script:
+ Word Errorrate: 92.48554913294798	 Character Errorrate:57.48709122203098 
+

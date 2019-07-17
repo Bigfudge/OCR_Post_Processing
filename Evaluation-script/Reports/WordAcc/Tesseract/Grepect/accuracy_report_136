@@ -1,0 +1,151 @@
+UNLV-ISRI OCR Word Accuracy Report Version 5.1
+----------------------------------------------
+     123   Words
+       0   Misrecognized
+  100.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        0   100.00        2
+       1        0   100.00        3
+       4        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      31        0   100.00        1
+      23        0   100.00        2
+      15        0   100.00        3
+      13        0   100.00        4
+      14        0   100.00        5
+       7        0   100.00        6
+       5        0   100.00        7
+       1        0   100.00        8
+       2        0   100.00        9
+       3        0   100.00       10
+       1        0   100.00       11
+       1        0   100.00       12
+       1        0   100.00       13
+       1        0   100.00       15
+       1        0   100.00       17
+     119        0   100.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      81        0   100.00        1
+       5        0   100.00        2
+       3        0   100.00        3
+       1        0   100.00        4
+       1        0   100.00      >10
+      91        0   100.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     123        0   100.00        1
+     122        0   100.00        2
+     121        0   100.00        3
+     120        0   100.00        4
+     119        0   100.00        5
+     118        0   100.00        6
+     117        0   100.00        7
+     116        0   100.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   in
+       1        0   100.00   man
+       1        0   100.00   my
+       1        0   100.00   up
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   aat
+       1        0   100.00   altkricktigt
+       1        0   100.00   ax
+       1        0   100.00   bk
+       1        0   100.00   compagnier
+       1        0   100.00   cs
+       1        0   100.00   cymbe
+       1        0   100.00   dant
+       1        0   100.00   de
+       1        0   100.00   deras
+       1        0   100.00   derom
+       1        0   100.00   eller
+       1        0   100.00   er
+       1        0   100.00   esn
+       1        0   100.00   f
+       1        0   100.00   fas
+       1        0   100.00   fã
+       1        0   100.00   gckill
+       1        0   100.00   hans
+       1        0   100.00   hofma
+       3        0   100.00   hã
+       1        0   100.00   icke
+       1        0   100.00   indiskt
+       1        0   100.00   ixâ
+       1        0   100.00   iyst
+       1        0   100.00   iâ
+       2        0   100.00   j
+       1        0   100.00   kars
+       1        0   100.00   kitt
+       1        0   100.00   kongl
+       1        0   100.00   lfã
+       1        0   100.00   linrã
+       1        0   100.00   lnxgrejkeramrutiz
+       1        0   100.00   lompagniecj
+       3        0   100.00   lã
+       1        0   100.00   maâ
+       1        0   100.00   mit
+       1        0   100.00   mã
+       1        0   100.00   n
+       1        0   100.00   narioneyt
+       1        0   100.00   nyttamed
+       3        0   100.00   och
+       1        0   100.00   opartijikt
+       1        0   100.00   otisâ
+       1        0   100.00   pengar
+       1        0   100.00   qomptzgniepar
+       2        0   100.00   r
+       1        0   100.00   rasattqzbã
+       1        0   100.00   rasrizz
+       1        0   100.00   rdsâ
+       1        0   100.00   rer
+       1        0   100.00   rgã
+       1        0   100.00   rltj
+       1        0   100.00   rtilkes
+       4        0   100.00   s
+       2        0   100.00   sa
+       1        0   100.00   sig
+       1        0   100.00   sj
+       2        0   100.00   soch
+       1        0   100.00   sordran
+       1        0   100.00   stiedt
+       1        0   100.00   stora
+       1        0   100.00   styan
+       1        0   100.00   styrkt
+       1        0   100.00   suddigare
+       1        0   100.00   sâ
+       1        0   100.00   sã
+       1        0   100.00   t
+       1        0   100.00   tarxs
+       1        0   100.00   tft
+       1        0   100.00   tillbã
+       1        0   100.00   tillgã
+       1        0   100.00   trognexusndersã
+       1        0   100.00   ttia
+       1        0   100.00   ttpe
+       1        0   100.00   twisiar
+       1        0   100.00   tycke
+       1        0   100.00   tytt
+       1        0   100.00   tz
+       1        0   100.00   utwid
+       1        0   100.00   w
+       2        0   100.00   wã
+       1        0   100.00   x
+       1        0   100.00   xi
+       1        0   100.00   xix
+       1        0   100.00   xttadt
+       1        0   100.00   y
+       1        0   100.00   yegrw
+       1        0   100.00   z
+      15        0   100.00   â
+       1        0   100.00   ã

@@ -1,0 +1,8 @@
+Evaluation for directory: ./Evaluation-reports/2019-07-17 21:40/output/ABBYYArgus/
+
+Prima evaluation:
+ WordAccuracy: 0.1296928327645051	 CharacterAccuracy:0.56745801968731 
+
+Språkbanken Evaluation Script:
+ Word Errorrate: 87.03071672354949	 Character Errorrate:44.09038238702202 
+

@@ -1,0 +1,161 @@
+UNLV-ISRI OCR Word Accuracy Report Version 5.1
+----------------------------------------------
+     122   Words
+       0   Misrecognized
+  100.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        0   100.00        1
+       4        0   100.00        2
+       2        0   100.00        3
+       1        0   100.00        4
+       8        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      15        0   100.00        1
+      11        0   100.00        2
+      26        0   100.00        3
+      19        0   100.00        4
+      15        0   100.00        5
+       9        0   100.00        6
+       6        0   100.00        7
+       1        0   100.00        8
+       6        0   100.00        9
+       2        0   100.00       10
+       2        0   100.00       12
+       1        0   100.00       14
+       1        0   100.00       15
+     114        0   100.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      93        0   100.00        1
+       3        0   100.00        2
+       1        0   100.00        3
+       2        0   100.00        6
+      99        0   100.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     122        0   100.00        1
+     121        0   100.00        2
+     120        0   100.00        3
+     119        0   100.00        4
+     118        0   100.00        5
+     117        0   100.00        6
+     116        0   100.00        7
+     115        0   100.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   all
+       2        0   100.00   an
+       1        0   100.00   at
+       1        0   100.00   he
+       1        0   100.00   i
+       1        0   100.00   may
+       1        0   100.00   then
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   aff
+       1        0   100.00   aldrenjwtlle
+       1        0   100.00   alla
+       1        0   100.00   alle
+       1        0   100.00   allena
+       1        0   100.00   ampt
+       1        0   100.00   andacht
+       1        0   100.00   andra
+       1        0   100.00   andreas
+       1        0   100.00   arome
+       1        0   100.00   ass
+       1        0   100.00   assy
+       1        0   100.00   bestandig
+       1        0   100.00   bã
+       1        0   100.00   dageligen
+       1        0   100.00   de
+       1        0   100.00   dedicatio
+       1        0   100.00   den
+       1        0   100.00   det
+       1        0   100.00   dja
+       1        0   100.00   doch
+       1        0   100.00   e
+       1        0   100.00   ekâ
+       1        0   100.00   enm
+       1        0   100.00   errarj
+       1        0   100.00   fften
+       1        0   100.00   fortfa
+       1        0   100.00   fwer
+       1        0   100.00   fã
+       1        0   100.00   giã
+       1        0   100.00   gsta
+       1        0   100.00   gudh
+       1        0   100.00   h
+       1        0   100.00   han
+       1        0   100.00   helga
+       1        0   100.00   herren
+       1        0   100.00   hufet
+       1        0   100.00   hã
+       1        0   100.00   iagh
+       1        0   100.00   icke
+       1        0   100.00   ini
+       1        0   100.00   isiga
+       1        0   100.00   isiveri
+       1        0   100.00   khristo
+       1        0   100.00   kia
+       1        0   100.00   ko
+       1        0   100.00   kommer
+       3        0   100.00   kongl
+       1        0   100.00   konungen
+       1        0   100.00   la
+       1        0   100.00   ldige
+       1        0   100.00   lijfzsund
+       1        0   100.00   luderhoff
+       1        0   100.00   lã
+       1        0   100.00   m
+       1        0   100.00   magox
+       1        0   100.00   makkon
+       1        0   100.00   mart
+       1        0   100.00   mays
+       1        0   100.00   maysâ
+       1        0   100.00   medh
+       1        0   100.00   medâ
+       1        0   100.00   mindre
+       1        0   100.00   mmx
+       1        0   100.00   nadej
+       1        0   100.00   nadh
+       1        0   100.00   ner
+       1        0   100.00   nigsteszianare
+       1        0   100.00   nungarl
+       6        0   100.00   och
+       1        0   100.00   ohm
+       1        0   100.00   r
+       1        0   100.00   ra
+       1        0   100.00   re
+       1        0   100.00   ret
+       1        0   100.00   rgmpn
+       1        0   100.00   rtilherren
+       2        0   100.00   s
+       1        0   100.00   sett
+       1        0   100.00   sexistisk
+       1        0   100.00   sikcssbegiaetig
+       1        0   100.00   sin
+       1        0   100.00   skal
+       1        0   100.00   sn
+       2        0   100.00   som
+       1        0   100.00   stadfastaxfã
+       1        0   100.00   stullt
+       1        0   100.00   styre
+       1        0   100.00   stã
+       1        0   100.00   swer
+       1        0   100.00   vabervã
+       1        0   100.00   vnversatai
+       1        0   100.00   vthi
+       1        0   100.00   wan
+       1        0   100.00   wkongt
+       1        0   100.00   wã
+       1        0   100.00   z
+       6        0   100.00   â
+       2        0   100.00   ã

@@ -1,0 +1,19 @@
+Parameters:
+Number of vectors from each source=8000
+SVM parameters:
+	 Kernel: rbf
+	 Gamma: 1
+	 C-value: 1
+	 Training data size: 10000
+SVM Performace:
+             precision    recall  f1-score   support
+
+          0       0.74      0.88      0.81      1214
+          1       0.74      0.52      0.61       786
+
+avg / total       0.74      0.74      0.73      2000
+Total number of words/freq in dataset: 10000
+Total number of tri-grams/freq in dataset: 15000
+Max edit distance: 8
+Min edit distance: 1
+Number of pages from each source processed (0 means all pages): 1

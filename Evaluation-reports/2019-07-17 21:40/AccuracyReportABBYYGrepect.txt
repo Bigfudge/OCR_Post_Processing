@@ -1,0 +1,8 @@
+Evaluation for directory: ./Evaluation-reports/2019-07-17 21:40/output/ABBYYGrepect/
+
+Prima evaluation:
+ WordAccuracy: 0.0	 CharacterAccuracy:0.541589648798521 
+
+Språkbanken Evaluation Script:
+ Word Errorrate: 101.93050193050193	 Character Errorrate:46.76524953789279 
+

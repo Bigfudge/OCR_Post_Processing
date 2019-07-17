@@ -1,0 +1,153 @@
+UNLV-ISRI OCR Word Accuracy Report Version 5.1
+----------------------------------------------
+     129   Words
+       0   Misrecognized
+  100.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       3        0   100.00        1
+       2        0   100.00        2
+       1        0   100.00        3
+       1        0   100.00        4
+       7        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       8        0   100.00        1
+      20        0   100.00        2
+      37        0   100.00        3
+      21        0   100.00        4
+      12        0   100.00        5
+      11        0   100.00        6
+       3        0   100.00        7
+       6        0   100.00        8
+       2        0   100.00        9
+       1        0   100.00       10
+       1        0   100.00       15
+     122        0   100.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      82        0   100.00        1
+       5        0   100.00        2
+       4        0   100.00        3
+       3        0   100.00        4
+       1        0   100.00        6
+      95        0   100.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     129        0   100.00        1
+     128        0   100.00        2
+     127        0   100.00        3
+     126        0   100.00        4
+     125        0   100.00        5
+     124        0   100.00        6
+     123        0   100.00        7
+     122        0   100.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        0   100.00   at
+       3        0   100.00   i
+       1        0   100.00   just
+       1        0   100.00   man
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   aa
+       1        0   100.00   adrdnads
+       2        0   100.00   alla
+       1        0   100.00   ana
+       1        0   100.00   ar
+       1        0   100.00   b
+       1        0   100.00   bannor
+       1        0   100.00   barndom
+       1        0   100.00   boll
+       1        0   100.00   bã
+       1        0   100.00   dan
+       1        0   100.00   den
+       1        0   100.00   det
+       1        0   100.00   dlet
+       1        0   100.00   dyrkan
+       2        0   100.00   ej
+       1        0   100.00   enda
+       1        0   100.00   eu
+       1        0   100.00   fman
+       1        0   100.00   fwor
+       4        0   100.00   fã
+       1        0   100.00   gag
+       1        0   100.00   grep
+       1        0   100.00   grymma
+       1        0   100.00   gsta
+       1        0   100.00   gudar
+       1        0   100.00   handkraft
+       1        0   100.00   handlrn
+       1        0   100.00   hat
+       1        0   100.00   hela
+       1        0   100.00   helgon
+       1        0   100.00   hivar
+       1        0   100.00   hjertan
+       1        0   100.00   hot
+       1        0   100.00   hudar
+       1        0   100.00   hus
+       1        0   100.00   hwarenjsadthank
+       1        0   100.00   hã
+       1        0   100.00   intet
+       1        0   100.00   ivars
+       1        0   100.00   ivra
+       1        0   100.00   kannor
+       1        0   100.00   krus
+       1        0   100.00   kungar
+       1        0   100.00   lika
+       1        0   100.00   liksom
+       1        0   100.00   liter
+       1        0   100.00   ljas
+       3        0   100.00   med
+       1        0   100.00   mellan
+       3        0   100.00   mer
+       3        0   100.00   mã
+       1        0   100.00   n
+       1        0   100.00   nans
+       1        0   100.00   nederslã
+       2        0   100.00   nga
+       1        0   100.00   ngas
+       1        0   100.00   nit
+       2        0   100.00   nu
+       6        0   100.00   och
+       1        0   100.00   offer
+       1        0   100.00   ordet
+       1        0   100.00   papickek
+       1        0   100.00   pipor
+       1        0   100.00   poliriquen
+       2        0   100.00   rde
+       1        0   100.00   riker
+       1        0   100.00   rstã
+       1        0   100.00   saken
+       1        0   100.00   sara
+       1        0   100.00   sem
+       1        0   100.00   sias
+       1        0   100.00   sig
+       1        0   100.00   sin
+       1        0   100.00   sist
+       4        0   100.00   som
+       1        0   100.00   stegrats
+       3        0   100.00   sã
+       1        0   100.00   tankar
+       1        0   100.00   tildauda
+       1        0   100.00   troll
+       1        0   100.00   tycksâ
+       1        0   100.00   tâ
+       1        0   100.00   utimin
+       1        0   100.00   utj
+       1        0   100.00   utsk
+       1        0   100.00   v
+       1        0   100.00   vid
+       1        0   100.00   werldenar
+       1        0   100.00   werldeni
+       1        0   100.00   wid
+       1        0   100.00   wil
+       1        0   100.00   wsd
+       4        0   100.00   â
+       1        0   100.00   ã

@@ -1,0 +1,165 @@
+UNLV-ISRI OCR Word Accuracy Report Version 5.1
+----------------------------------------------
+     128   Words
+       0   Misrecognized
+  100.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        0   100.00        1
+       1        0   100.00        3
+       2        0   100.00        4
+       4        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      14        0   100.00        1
+      13        0   100.00        2
+      21        0   100.00        3
+      10        0   100.00        4
+      18        0   100.00        5
+       8        0   100.00        6
+      13        0   100.00        7
+       8        0   100.00        8
+       9        0   100.00        9
+       4        0   100.00       10
+       1        0   100.00       11
+       1        0   100.00       12
+       2        0   100.00       15
+       2        0   100.00       24
+     124        0   100.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      99        0   100.00        1
+       1        0   100.00        2
+       4        0   100.00        3
+       1        0   100.00        5
+       1        0   100.00        6
+     106        0   100.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     128        0   100.00        1
+     127        0   100.00        2
+     126        0   100.00        3
+     125        0   100.00        4
+     124        0   100.00        5
+     123        0   100.00        6
+     122        0   100.00        7
+     121        0   100.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   i
+       1        0   100.00   the
+       2        0   100.00   then
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   adela
+       1        0   100.00   adelhet
+       1        0   100.00   affmã
+       1        0   100.00   alla
+       1        0   100.00   allom
+       1        0   100.00   alsiasl
+       3        0   100.00   ar
+       1        0   100.00   arelhwari
+       1        0   100.00   ass
+       1        0   100.00   athugges
+       1        0   100.00   augustxnusl
+       1        0   100.00   bandt
+       1        0   100.00   behancr
+       1        0   100.00   besikti
+       1        0   100.00   blidkar
+       1        0   100.00   borttager
+       1        0   100.00   bã
+       1        0   100.00   d
+       1        0   100.00   dar
+       1        0   100.00   dcdicatiã
+       1        0   100.00   de
+       1        0   100.00   detta
+       1        0   100.00   djaff
+       1        0   100.00   doch
+       1        0   100.00   dwaudige
+       1        0   100.00   eller
+       1        0   100.00   emot
+       1        0   100.00   enfaldigheet
+       1        0   100.00   estadze
+       1        0   100.00   ett
+       3        0   100.00   f
+       1        0   100.00   fast
+       1        0   100.00   fetma
+       1        0   100.00   forlijktel
+       1        0   100.00   frejs
+       1        0   100.00   friden
+       1        0   100.00   frijden
+       1        0   100.00   frijdzens
+       1        0   100.00   fruchter
+       1        0   100.00   fstraffar
+       3        0   100.00   fã
+       1        0   100.00   garna
+       1        0   100.00   gen
+       1        0   100.00   hafwer
+       1        0   100.00   har
+       1        0   100.00   haswa
+       1        0   100.00   heliga
+       1        0   100.00   hiertans
+       1        0   100.00   hoghfardigataksisarspthe
+       1        0   100.00   hwikken
+       1        0   100.00   hyllas
+       1        0   100.00   ingen
+       1        0   100.00   jâ
+       3        0   100.00   k
+       1        0   100.00   kajor
+       1        0   100.00   karleksens
+       1        0   100.00   knã
+       1        0   100.00   korteli
+       1        0   100.00   kâ
+       1        0   100.00   la
+       1        0   100.00   lararm
+       1        0   100.00   larde
+       1        0   100.00   lcdes
+       1        0   100.00   lige
+       1        0   100.00   med
+       1        0   100.00   memustionesfors
+       1        0   100.00   men
+       1        0   100.00   mennistiom
+       1        0   100.00   naturlige
+       1        0   100.00   nyt
+       6        0   100.00   och
+       1        0   100.00   odmmkat
+       1        0   100.00   oenigas
+       1        0   100.00   orliglvthstackertwredjet
+       1        0   100.00   r
+       1        0   100.00   re
+       1        0   100.00   roligw
+       1        0   100.00   rtroligit
+       1        0   100.00   s
+       1        0   100.00   samma
+       1        0   100.00   seowanner
+       1        0   100.00   sex
+       1        0   100.00   sin
+       1        0   100.00   sine
+       1        0   100.00   sinnens
+       1        0   100.00   siuc
+       1        0   100.00   smils
+       2        0   100.00   som
+       1        0   100.00   standz
+       1        0   100.00   stillar
+       1        0   100.00   thxe
+       1        0   100.00   tianlige
+       1        0   100.00   tigheetl
+       1        0   100.00   tort
+       1        0   100.00   tradz
+       1        0   100.00   trã
+       1        0   100.00   vcadxsormedetsi
+       1        0   100.00   vmgangrt
+       1        0   100.00   vplysningj
+       1        0   100.00   vpryckes
+       1        0   100.00   wal
+       1        0   100.00   weladt
+       1        0   100.00   wijsltgen
+       1        0   100.00   zk
+       1        0   100.00   zwct
+       5        0   100.00   â

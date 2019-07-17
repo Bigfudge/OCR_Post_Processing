@@ -1,0 +1,91 @@
+UNLV-ISRI OCR Accuracy Report Version 5.1
+-----------------------------------------
+     166   Characters
+     124   Errors
+   25.30%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   25.30%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      47       62       15      124   Unmarked
+      47       62       15      124   Total
+
+   Count   Missed   %Right
+      19       10    47.37   ASCII Spacing Characters
+       6        6     0.00   ASCII Special Symbols
+      22       14    36.36   ASCII Uppercase Letters
+      99       63    36.36   ASCII Lowercase Letters
+       2        1    50.00   Latin1 Control Codes
+       8        7    12.50   Latin1 Special Symbols
+      10        8    20.00   Latin1 Uppercase Letters
+     166      109    34.34   Total
+
+  Errors   Marked   Correct-Generated
+      26        0   {TackÅ¿Ã¤jelÅ¿e<\n>Ã<96>f...}-{â<80><99>}
+      20        0   {es ReÅ¿a.<\n>Stockholm,}-{ot;holm, , Â» Â» .}
+      14        0   {komÅ¿t,<\n>Efter<\n>}-{ Â« Â« Â»<\n>. , }
+      11        0   {Hugneliga A}-{. . . Es}
+      11        0   {er}-{<\n>X SSU-ynkl}
+       8        0   {Prints C}-{me}
+       7        0   {l. HÃ¶g}-{}
+       5        0   {ct.}-{ga -<\n>}
+       4        0   {.}-{ AMI}
+       4        0   {Utri}-{S}
+       3        0   {Try}-{rÃ¤}
+       3        0   {Ã¶r}-{ox-}
+       2        0   {i }-{j}
+       2        0   {n}-{ij}
+       1        0   {K}-{}
+       1        0   {S}-{s}
+       1        0   {i}-{c}
+       1        0   {n}-{}
+
+   Count   Missed   %Right
+       9        5    44.44   {<\n>}
+      10        5    50.00   { }
+       2        2     0.00   {,}
+       4        4     0.00   {.}
+       2        1    50.00   {A}
+       1        1     0.00   {C}
+       1        1     0.00   {E}
+       1        0   100.00   {F}
+       3        3     0.00   {H}
+       2        1    50.00   {K}
+       2        0   100.00   {L}
+       1        1     0.00   {P}
+       2        1    50.00   {R}
+       2        2     0.00   {S}
+       4        2    50.00   {T}
+       1        1     0.00   {U}
+       5        4    20.00   {a}
+       6        3    50.00   {c}
+       1        0   100.00   {d}
+      14        8    42.86   {e}
+       2        2     0.00   {f}
+       6        3    50.00   {g}
+       3        1    66.67   {h}
+       6        5    16.67   {i}
+       1        1     0.00   {j}
+       7        3    57.14   {k}
+       6        4    33.33   {l}
+       2        2     0.00   {m}
+       6        5    16.67   {n}
+       5        3    40.00   {o}
+      10        7    30.00   {r}
+       3        3     0.00   {s}
+      11        6    45.45   {t}
+       1        1     0.00   {u}
+       1        1     0.00   {w}
+       3        1    66.67   {y}
+       1        1     0.00   {<96>}
+       1        0   100.00   {<9F>}
+       2        1    50.00   {¤}
+       2        2     0.00   {¶}
+       4        4     0.00   {¿}
+       6        4    33.33   {Ã}
+       4        4     0.00   {Å}

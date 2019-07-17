@@ -1,0 +1,8 @@
+Evaluation for directory: ./Evaluation-reports/2019-07-17 21:40/output/OcropusGrepect/
+
+Prima evaluation:
+ WordAccuracy: 0.13872832369942195	 CharacterAccuracy:0.562822719449225 
+
+Språkbanken Evaluation Script:
+ Word Errorrate: 87.57225433526011	 Character Errorrate:44.463568559954105 
+

@@ -1,0 +1,60 @@
+UNLV-ISRI OCR Word Accuracy Report Version 5.1
+----------------------------------------------
+      24   Words
+       0   Misrecognized
+  100.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       0        0   ------    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+       7        0   100.00        1
+       3        0   100.00        2
+       3        0   100.00        3
+       3        0   100.00        4
+       3        0   100.00        5
+       2        0   100.00        6
+       2        0   100.00        7
+       1        0   100.00       10
+      24        0   100.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      16        0   100.00        1
+       1        0   100.00        2
+       1        0   100.00        6
+      18        0   100.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+      24        0   100.00        1
+      23        0   100.00        2
+      22        0   100.00        3
+      21        0   100.00        4
+      20        0   100.00        5
+      19        0   100.00        6
+      18        0   100.00        7
+      17        0   100.00        8
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   ami
+       1        0   100.00   ck
+       1        0   100.00   ester
+       1        0   100.00   fox
+       1        0   100.00   holm
+       1        0   100.00   jkoijgl
+       1        0   100.00   lyckelcgen
+       1        0   100.00   mearls
+       1        0   100.00   oghet
+       2        0   100.00   rã
+       1        0   100.00   skot
+       1        0   100.00   ssu
+       1        0   100.00   theã
+       1        0   100.00   tryckt
+       1        0   100.00   ttade
+       1        0   100.00   x
+       1        0   100.00   ynkliga
+       6        0   100.00   â

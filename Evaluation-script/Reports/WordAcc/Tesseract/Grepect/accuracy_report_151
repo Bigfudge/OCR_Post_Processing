@@ -1,0 +1,204 @@
+UNLV-ISRI OCR Word Accuracy Report Version 5.1
+----------------------------------------------
+     236   Words
+       0   Misrecognized
+  100.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       1        0   100.00        1
+       1        0   100.00        2
+       2        0   100.00        4
+       4        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      45        0   100.00        1
+      46        0   100.00        2
+      53        0   100.00        3
+      25        0   100.00        4
+      23        0   100.00        5
+      13        0   100.00        6
+       8        0   100.00        7
+       6        0   100.00        8
+       4        0   100.00        9
+       5        0   100.00       10
+       2        0   100.00       11
+       1        0   100.00       12
+       1        0   100.00       13
+     232        0   100.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     115        0   100.00        1
+      11        0   100.00        2
+       7        0   100.00        3
+       3        0   100.00        4
+       3        0   100.00        5
+       1        0   100.00        8
+       1        0   100.00        9
+       2        0   100.00      >10
+     143        0   100.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     236        0   100.00        1
+     235        0   100.00        2
+     234        0   100.00        3
+     233        0   100.00        4
+     232        0   100.00        5
+     231        0   100.00        6
+     230        0   100.00        7
+     229        0   100.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   i
+       1        0   100.00   in
+       2        0   100.00   like
+
+Non-stopwords
+   Count   Missed   %Right   
+       4        0   100.00   af
+       3        0   100.00   alla
+       1        0   100.00   annat
+       2        0   100.00   ar
+       1        0   100.00   ax
+       1        0   100.00   axet
+       1        0   100.00   axets
+       1        0   100.00   bara
+       2        0   100.00   bestã
+       1        0   100.00   betã
+       1        0   100.00   biomkronat
+       1        0   100.00   blad
+       1        0   100.00   bladig
+       2        0   100.00   blomfoder
+       2        0   100.00   blomfodret
+       1        0   100.00   blommorna
+       1        0   100.00   bqas
+       1        0   100.00   bã
+       1        0   100.00   c
+       1        0   100.00   ciggai
+       1        0   100.00   commel
+       1        0   100.00   cyperus
+       1        0   100.00   deck
+       1        0   100.00   delt
+       2        0   100.00   deã
+       1        0   100.00   e
+       1        0   100.00   emot
+       1        0   100.00   en
+       1        0   100.00   er
+       1        0   100.00   eriophorum
+       8        0   100.00   et
+       1        0   100.00   f
+       1        0   100.00   fe
+       1        0   100.00   ff
+       1        0   100.00   fhz
+       1        0   100.00   fi
+       3        0   100.00   fjã
+       1        0   100.00   fmã
+       1        0   100.00   fnas
+       2        0   100.00   fnã
+       1        0   100.00   fo
+       1        0   100.00   fomj
+       1        0   100.00   formerar
+       5        0   100.00   frã
+       1        0   100.00   fwergã
+       1        0   100.00   fã
+       1        0   100.00   gdt
+       1        0   100.00   gen
+       1        0   100.00   gon
+       1        0   100.00   hafwa
+       5        0   100.00   har
+       1        0   100.00   hivartannat
+       1        0   100.00   honungshufen
+       1        0   100.00   hufwnd
+       1        0   100.00   hwars
+       1        0   100.00   hwart
+       1        0   100.00   hwilka
+       3        0   100.00   hã
+       1        0   100.00   ingen
+       1        0   100.00   intet
+       1        0   100.00   iwa
+       1        0   100.00   jngen
+       1        0   100.00   jã
+       1        0   100.00   kanten
+       1        0   100.00   kkronbladen
+       1        0   100.00   knippwis
+       1        0   100.00   kors
+       3        0   100.00   krona
+       2        0   100.00   kronan
+       1        0   100.00   kronbladen
+       1        0   100.00   kronblant
+       1        0   100.00   kronorne
+       1        0   100.00   kt
+       1        0   100.00   lika
+       1        0   100.00   litet
+       1        0   100.00   ljll
+       1        0   100.00   ll
+       1        0   100.00   lls
+       1        0   100.00   lrls
+       1        0   100.00   lster
+       1        0   100.00   lu
+       1        0   100.00   lygeum
+       1        0   100.00   lã
+       4        0   100.00   med
+       1        0   100.00   mi
+       1        0   100.00   midr
+       1        0   100.00   mse
+       1        0   100.00   mte
+       1        0   100.00   n
+       1        0   100.00   na
+       1        0   100.00   naggade
+       1        0   100.00   nardus
+       1        0   100.00   ndarena
+       1        0   100.00   ngande
+       1        0   100.00   ngd
+       1        0   100.00   nge
+       1        0   100.00   njã
+       1        0   100.00   nnjngar
+       1        0   100.00   nã
+       3        0   100.00   och
+       1        0   100.00   pigt
+       3        0   100.00   pã
+       9        0   100.00   r
+       1        0   100.00   ra
+       1        0   100.00   rdslj
+       1        0   100.00   rken
+       5        0   100.00   ro
+       2        0   100.00   rp
+       1        0   100.00   rpen
+       1        0   100.00   rum
+       1        0   100.00   rund
+       1        0   100.00   saf
+       1        0   100.00   samma
+       1        0   100.00   schoenus
+       1        0   100.00   scirpus
+       2        0   100.00   sidor
+       1        0   100.00   sidors
+       2        0   100.00   sittande
+       1        0   100.00   sjã
+       1        0   100.00   smã
+       1        0   100.00   snã
+       4        0   100.00   som
+       1        0   100.00   ste
+       1        0   100.00   stora
+       1        0   100.00   stycken
+       1        0   100.00   stã
+       1        0   100.00   swã
+       1        0   100.00   t
+       1        0   100.00   tilbaka
+       1        0   100.00   trjmã
+       3        0   100.00   ull
+       1        0   100.00   under
+       2        0   100.00   utan
+       1        0   100.00   utbredd
+       1        0   100.00   ute
+       1        0   100.00   utgã
+       1        0   100.00   wachendorffia
+       1        0   100.00   wid
+       1        0   100.00   xykls
+       1        0   100.00   yo
+       1        0   100.00   z
+      15        0   100.00   â
+      15        0   100.00   ã

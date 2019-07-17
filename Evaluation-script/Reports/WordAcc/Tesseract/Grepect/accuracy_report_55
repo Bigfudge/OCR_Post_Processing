@@ -1,0 +1,139 @@
+UNLV-ISRI OCR Word Accuracy Report Version 5.1
+----------------------------------------------
+     100   Words
+       0   Misrecognized
+  100.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        0   100.00        2
+       2        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      22        0   100.00        1
+      10        0   100.00        2
+      16        0   100.00        3
+      11        0   100.00        4
+      11        0   100.00        5
+       4        0   100.00        6
+      10        0   100.00        7
+       3        0   100.00        8
+       3        0   100.00        9
+       2        0   100.00       11
+       4        0   100.00       12
+       1        0   100.00       13
+       1        0   100.00       14
+      98        0   100.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      82        0   100.00        1
+       3        0   100.00        2
+       1        0   100.00       10
+      86        0   100.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     100        0   100.00        1
+      99        0   100.00        2
+      98        0   100.00        3
+      97        0   100.00        4
+      96        0   100.00        5
+      95        0   100.00        6
+      94        0   100.00        7
+      93        0   100.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   at
+       1        0   100.00   is
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   befordra
+       1        0   100.00   bo
+       1        0   100.00   drops
+       1        0   100.00   f
+       1        0   100.00   fall
+       1        0   100.00   feber
+       1        0   100.00   frã
+       1        0   100.00   fã
+       1        0   100.00   hindrar
+       1        0   100.00   hren
+       1        0   100.00   ihre
+       1        0   100.00   inflammation
+       1        0   100.00   iom
+       1        0   100.00   krã
+       1        0   100.00   ld
+       1        0   100.00   lejts
+       1        0   100.00   ling
+       1        0   100.00   lk
+       1        0   100.00   ltkfuka
+       1        0   100.00   mag
+       1        0   100.00   magstyrkande
+       1        0   100.00   maktheh
+       1        0   100.00   mal
+       1        0   100.00   maljsnssfebrar
+       1        0   100.00   mandlarne
+       1        0   100.00   manse
+       1        0   100.00   marleda
+       1        0   100.00   masi
+       1        0   100.00   massac
+       1        0   100.00   maten
+       1        0   100.00   matlust
+       1        0   100.00   matsmaltmng
+       1        0   100.00   matstrupens
+       1        0   100.00   matã
+       1        0   100.00   maã
+       1        0   100.00   medel
+       1        0   100.00   medst
+       1        0   100.00   migraine
+       1        0   100.00   mister
+       1        0   100.00   mixtuka
+       1        0   100.00   miã
+       2        0   100.00   mjã
+       1        0   100.00   mn
+       1        0   100.00   moderpafsiom
+       1        0   100.00   mogaande
+       1        0   100.00   mpã
+       1        0   100.00   myderdroppar
+       1        0   100.00   mynn
+       1        0   100.00   mã
+       1        0   100.00   n
+       1        0   100.00   nagelbã
+       1        0   100.00   nerp
+       1        0   100.00   nã
+       2        0   100.00   o
+       1        0   100.00   obã
+       1        0   100.00   och
+       1        0   100.00   ondt
+       1        0   100.00   opiac
+       1        0   100.00   ormbett
+       1        0   100.00   oro
+       1        0   100.00   os
+       1        0   100.00   palfy
+       1        0   100.00   petipneumonie
+       1        0   100.00   petjt
+       1        0   100.00   pomada
+       1        0   100.00   pã
+       2        0   100.00   r
+       1        0   100.00   rks
+       1        0   100.00   ruã
+       1        0   100.00   s
+       1        0   100.00   salt
+       1        0   100.00   sblod
+       1        0   100.00   sciatique
+       1        0   100.00   simplex
+       1        0   100.00   som
+       1        0   100.00   styrkande
+       1        0   100.00   swullna
+       1        0   100.00   sã
+       1        0   100.00   t
+       1        0   100.00   tandkã
+       1        0   100.00   ttet
+       1        0   100.00   u
+       1        0   100.00   x
+       1        0   100.00   y
+       1        0   100.00   z
+      10        0   100.00   â

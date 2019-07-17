@@ -1,0 +1,195 @@
+UNLV-ISRI OCR Word Accuracy Report Version 5.1
+----------------------------------------------
+     178   Words
+       0   Misrecognized
+  100.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       7        0   100.00        1
+       7        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      29        0   100.00        1
+      26        0   100.00        2
+      36        0   100.00        3
+      25        0   100.00        4
+      20        0   100.00        5
+      11        0   100.00        6
+       7        0   100.00        7
+       2        0   100.00        8
+       4        0   100.00        9
+       3        0   100.00       10
+       3        0   100.00       11
+       1        0   100.00       13
+       2        0   100.00       14
+       1        0   100.00       16
+       1        0   100.00       24
+     171        0   100.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     128        0   100.00        1
+       7        0   100.00        2
+       1        0   100.00        3
+       2        0   100.00        5
+       1        0   100.00      >10
+     139        0   100.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     178        0   100.00        1
+     177        0   100.00        2
+     176        0   100.00        3
+     175        0   100.00        4
+     174        0   100.00        5
+     173        0   100.00        6
+     172        0   100.00        7
+     171        0   100.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       7        0   100.00   i
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   akt
+       1        0   100.00   bark
+       1        0   100.00   blad
+       1        0   100.00   chivm
+       1        0   100.00   dgades
+       1        0   100.00   diana
+       1        0   100.00   dii
+       1        0   100.00   e
+       1        0   100.00   eds
+       1        0   100.00   en
+       1        0   100.00   ess
+       1        0   100.00   etisk
+       1        0   100.00   fakta
+       1        0   100.00   ff
+       1        0   100.00   fiimmaitii
+       1        0   100.00   fitvne
+       1        0   100.00   fsiokhiiscysimey
+       1        0   100.00   fsxiiiiiiix
+       1        0   100.00   fvi
+       2        0   100.00   fã
+       1        0   100.00   gais
+       1        0   100.00   gin
+       1        0   100.00   giã
+       1        0   100.00   gm
+       1        0   100.00   gqu
+       1        0   100.00   gã
+       1        0   100.00   hati
+       1        0   100.00   hiimt
+       1        0   100.00   hjediiisie
+       1        0   100.00   hvariry
+       1        0   100.00   hwadmeiieniivã
+       1        0   100.00   hwaw
+       1        0   100.00   idet
+       1        0   100.00   idis
+       1        0   100.00   ids
+       1        0   100.00   ieii
+       2        0   100.00   ii
+       1        0   100.00   iiesdã
+       5        0   100.00   iii
+       1        0   100.00   iiii
+       1        0   100.00   iiiiiiiiiiiiv
+       1        0   100.00   iiiiinveiig
+       1        0   100.00   iiiã
+       1        0   100.00   iili
+       1        0   100.00   iipftigii
+       1        0   100.00   ikti
+       1        0   100.00   im
+       1        0   100.00   imeviin
+       1        0   100.00   imme
+       1        0   100.00   ingen
+       1        0   100.00   inginge
+       1        0   100.00   instiwa
+       1        0   100.00   isa
+       1        0   100.00   itti
+       1        0   100.00   iv
+       1        0   100.00   ivcii
+       1        0   100.00   iver
+       1        0   100.00   ivers
+       1        0   100.00   iviir
+       1        0   100.00   ix
+       1        0   100.00   ixi
+       1        0   100.00   ja
+       1        0   100.00   jesu
+       1        0   100.00   jiimmmer
+       1        0   100.00   kindas
+       1        0   100.00   ko
+       1        0   100.00   la
+       1        0   100.00   liienkigi
+       1        0   100.00   lim
+       1        0   100.00   lioan
+       1        0   100.00   ljã
+       1        0   100.00   lnnviv
+       5        0   100.00   m
+       1        0   100.00   main
+       1        0   100.00   mainii
+       1        0   100.00   menan
+       1        0   100.00   meri
+       1        0   100.00   mgiiluiida
+       1        0   100.00   mika
+       1        0   100.00   minnee
+       1        0   100.00   mit
+       1        0   100.00   mrikiiiveriisi
+       1        0   100.00   mswom
+       1        0   100.00   mâ
+       1        0   100.00   n
+       1        0   100.00   nesnm
+       1        0   100.00   niger
+       1        0   100.00   nit
+       1        0   100.00   nix
+       1        0   100.00   nã
+       1        0   100.00   oxyv
+       1        0   100.00   p
+       1        0   100.00   pik
+       1        0   100.00   pimth
+       1        0   100.00   qviiiiivi
+       1        0   100.00   r
+       1        0   100.00   rdã
+       1        0   100.00   rã
+       2        0   100.00   s
+       1        0   100.00   sefiret
+       1        0   100.00   si
+       1        0   100.00   siade
+       2        0   100.00   sig
+       1        0   100.00   sigsiiã
+       1        0   100.00   sim
+       1        0   100.00   sist
+       1        0   100.00   sk
+       1        0   100.00   skiss
+       1        0   100.00   snari
+       1        0   100.00   st
+       1        0   100.00   stativ
+       1        0   100.00   stiim
+       1        0   100.00   stim
+       1        0   100.00   svarva
+       1        0   100.00   tig
+       1        0   100.00   tt
+       1        0   100.00   tã
+       1        0   100.00   ujm
+       1        0   100.00   va
+       1        0   100.00   vak
+       1        0   100.00   vam
+       2        0   100.00   ve
+       1        0   100.00   veã
+       1        0   100.00   vfiviitnivt
+       3        0   100.00   vii
+       1        0   100.00   viii
+       1        0   100.00   viiienz
+       1        0   100.00   viiiheirs
+       1        0   100.00   vikninatintieiiiiiblygdj
+       1        0   100.00   vin
+       1        0   100.00   vindri
+       1        0   100.00   vivrng
+       1        0   100.00   woims
+       1        0   100.00   wã
+       2        0   100.00   xiii
+       1        0   100.00   yiviiiii
+       1        0   100.00   yqu
+      16        0   100.00   â
+       2        0   100.00   ã

@@ -1,0 +1,170 @@
+UNLV-ISRI OCR Word Accuracy Report Version 5.1
+----------------------------------------------
+     144   Words
+       0   Misrecognized
+  100.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        0   100.00        1
+       3        0   100.00        2
+       1        0   100.00        3
+       6        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      16        0   100.00        1
+      32        0   100.00        2
+      31        0   100.00        3
+      18        0   100.00        4
+      20        0   100.00        5
+       9        0   100.00        6
+       4        0   100.00        7
+       1        0   100.00        8
+       3        0   100.00        9
+       1        0   100.00       10
+       1        0   100.00       11
+       1        0   100.00       12
+       1        0   100.00       13
+     138        0   100.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+      96        0   100.00        1
+       8        0   100.00        2
+       4        0   100.00        3
+       1        0   100.00        4
+       2        0   100.00        5
+     111        0   100.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     144        0   100.00        1
+     143        0   100.00        2
+     142        0   100.00        3
+     141        0   100.00        4
+     140        0   100.00        5
+     139        0   100.00        6
+     138        0   100.00        7
+     137        0   100.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       2        0   100.00   at
+       2        0   100.00   i
+       1        0   100.00   man
+       1        0   100.00   up
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   af
+       1        0   100.00   aldrig
+       1        0   100.00   angã
+       1        0   100.00   berget
+       1        0   100.00   bestã
+       1        0   100.00   blandar
+       1        0   100.00   bli
+       3        0   100.00   blott
+       2        0   100.00   bã
+       1        0   100.00   chamadcnâ
+       1        0   100.00   concrerchã
+       1        0   100.00   dan
+       3        0   100.00   de
+       1        0   100.00   deuxpã
+       1        0   100.00   dst
+       1        0   100.00   dt
+       3        0   100.00   dã
+       1        0   100.00   eget
+       1        0   100.00   eller
+       1        0   100.00   et
+       1        0   100.00   fdrstã
+       1        0   100.00   flanquen
+       1        0   100.00   flera
+       1        0   100.00   folk
+       1        0   100.00   fritt
+       2        0   100.00   fã
+       1        0   100.00   hade
+       1        0   100.00   hadâ
+       2        0   100.00   han
+       1        0   100.00   hans
+       1        0   100.00   hele
+       1        0   100.00   hã
+       1        0   100.00   ingett
+       1        0   100.00   intetzsgttz
+       1        0   100.00   iraks
+       1        0   100.00   iz
+       1        0   100.00   j
+       4        0   100.00   jag
+       1        0   100.00   ju
+       1        0   100.00   kan
+       1        0   100.00   ker
+       1        0   100.00   kjã
+       1        0   100.00   knapt
+       1        0   100.00   lands
+       1        0   100.00   lla
+       1        0   100.00   lura
+       2        0   100.00   lã
+       1        0   100.00   m
+       1        0   100.00   mast
+       1        0   100.00   md
+       1        0   100.00   mdas
+       1        0   100.00   med
+       2        0   100.00   men
+       2        0   100.00   mig
+       1        0   100.00   min
+       1        0   100.00   mkd
+       1        0   100.00   mmitkekcn
+       1        0   100.00   n
+       1        0   100.00   nara
+       1        0   100.00   nã
+       1        0   100.00   ofwerstenxjag
+       1        0   100.00   ojvkdt
+       3        0   100.00   om
+       1        0   100.00   pã
+       1        0   100.00   qch
+       5        0   100.00   r
+       1        0   100.00   raveliner
+       1        0   100.00   rej
+       1        0   100.00   rlora
+       1        0   100.00   rm
+       1        0   100.00   ropaâ
+       1        0   100.00   rtidigt
+       1        0   100.00   rã
+       1        0   100.00   saker
+       1        0   100.00   sbwst
+       1        0   100.00   seglgpstungt
+       1        0   100.00   siat
+       1        0   100.00   sick
+       1        0   100.00   sijuta
+       1        0   100.00   sit
+       1        0   100.00   skeppet
+       1        0   100.00   sltkt
+       1        0   100.00   som
+       1        0   100.00   spetsen
+       1        0   100.00   st
+       1        0   100.00   stgrp
+       1        0   100.00   stod
+       1        0   100.00   storg
+       1        0   100.00   stã
+       1        0   100.00   sã
+       1        0   100.00   t
+       1        0   100.00   tandra
+       1        0   100.00   tapto
+       1        0   100.00   tid
+       1        0   100.00   tit
+       1        0   100.00   tjt
+       1        0   100.00   toppm
+       1        0   100.00   tptz
+       1        0   100.00   tro
+       1        0   100.00   tror
+       1        0   100.00   tsmã
+       2        0   100.00   tt
+       1        0   100.00   tã
+       1        0   100.00   udwa
+       1        0   100.00   undrar
+       1        0   100.00   ut
+       1        0   100.00   wateâ
+       1        0   100.00   wet
+       1        0   100.00   wiã
+       5        0   100.00   â
+       2        0   100.00   ã

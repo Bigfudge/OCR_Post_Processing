@@ -1,0 +1,173 @@
+UNLV-ISRI OCR Word Accuracy Report Version 5.1
+----------------------------------------------
+     154   Words
+       0   Misrecognized
+  100.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       4        0   100.00        1
+       4        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      24        0   100.00        1
+      20        0   100.00        2
+      37        0   100.00        3
+      22        0   100.00        4
+      18        0   100.00        5
+      13        0   100.00        6
+       5        0   100.00        7
+       3        0   100.00        8
+       4        0   100.00        9
+       2        0   100.00       10
+       1        0   100.00       11
+       1        0   100.00       19
+     150        0   100.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     105        0   100.00        1
+      11        0   100.00        2
+       1        0   100.00        3
+       2        0   100.00        4
+       1        0   100.00      >10
+     120        0   100.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     154        0   100.00        1
+     153        0   100.00        2
+     152        0   100.00        3
+     151        0   100.00        4
+     150        0   100.00        5
+     149        0   100.00        6
+     148        0   100.00        7
+     147        0   100.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       4        0   100.00   i
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   ai
+       1        0   100.00   aitgikulle
+       1        0   100.00   ali
+       1        0   100.00   bey
+       1        0   100.00   blide
+       1        0   100.00   bryta
+       1        0   100.00   ckiig
+       1        0   100.00   ckiiã
+       1        0   100.00   dcimii
+       1        0   100.00   de
+       1        0   100.00   deg
+       4        0   100.00   det
+       1        0   100.00   dm
+       1        0   100.00   drmgg
+       1        0   100.00   duglig
+       2        0   100.00   eii
+       2        0   100.00   en
+       1        0   100.00   ende
+       1        0   100.00   fan
+       1        0   100.00   fdiiiii
+       1        0   100.00   fdiisi
+       1        0   100.00   feii
+       1        0   100.00   feiiz
+       1        0   100.00   felet
+       1        0   100.00   fisk
+       2        0   100.00   fã
+       1        0   100.00   g
+       1        0   100.00   giiiiiiie
+       1        0   100.00   gis
+       1        0   100.00   grytan
+       1        0   100.00   h
+       1        0   100.00   ha
+       1        0   100.00   hak
+       1        0   100.00   hdiiii
+       1        0   100.00   heiii
+       2        0   100.00   hiiiis
+       1        0   100.00   hã
+       1        0   100.00   idissiã
+       1        0   100.00   idiã
+       1        0   100.00   igeiidii
+       1        0   100.00   ii
+       1        0   100.00   iiewã
+       1        0   100.00   iif
+       2        0   100.00   iii
+       1        0   100.00   iiigisrd
+       1        0   100.00   iiii
+       1        0   100.00   iiiiiiii
+       1        0   100.00   iiiiikeii
+       1        0   100.00   iiisiim
+       1        0   100.00   iikte
+       1        0   100.00   iiog
+       1        0   100.00   iit
+       1        0   100.00   iiyã
+       1        0   100.00   iiã
+       1        0   100.00   ikiith
+       1        0   100.00   il
+       1        0   100.00   ils
+       1        0   100.00   indie
+       1        0   100.00   ing
+       1        0   100.00   invigs
+       1        0   100.00   ivil
+       1        0   100.00   ivois
+       1        0   100.00   iâ
+       1        0   100.00   jiig
+       1        0   100.00   jim
+       2        0   100.00   k
+       1        0   100.00   kj
+       1        0   100.00   klã
+       1        0   100.00   kocken
+       1        0   100.00   krkmnpems
+       1        0   100.00   kvavt
+       1        0   100.00   liiii
+       1        0   100.00   lika
+       1        0   100.00   mctizsjiiiiinidiioi
+       1        0   100.00   meii
+       1        0   100.00   miiiiiiii
+       1        0   100.00   mini
+       1        0   100.00   mm
+       1        0   100.00   mod
+       1        0   100.00   mwm
+       1        0   100.00   na
+       1        0   100.00   nej
+       2        0   100.00   och
+       1        0   100.00   ochsegm
+       1        0   100.00   okej
+       2        0   100.00   r
+       1        0   100.00   ra
+       1        0   100.00   riiqueteii
+       1        0   100.00   rstã
+       1        0   100.00   rvds
+       2        0   100.00   rã
+       2        0   100.00   s
+       3        0   100.00   sem
+       1        0   100.00   sig
+       1        0   100.00   sii
+       1        0   100.00   siii
+       1        0   100.00   sik
+       1        0   100.00   siken
+       1        0   100.00   sioden
+       1        0   100.00   siogii
+       1        0   100.00   sm
+       1        0   100.00   smit
+       1        0   100.00   som
+       1        0   100.00   spray
+       1        0   100.00   sthode
+       1        0   100.00   stocken
+       1        0   100.00   stod
+       1        0   100.00   tjuv
+       1        0   100.00   tt
+       1        0   100.00   tycks
+       1        0   100.00   vch
+       1        0   100.00   viii
+       1        0   100.00   vikit
+       1        0   100.00   wid
+       1        0   100.00   wiii
+       2        0   100.00   xii
+       1        0   100.00   xiii
+       1        0   100.00   xiiiifiioii
+      12        0   100.00   â
+       4        0   100.00   ã

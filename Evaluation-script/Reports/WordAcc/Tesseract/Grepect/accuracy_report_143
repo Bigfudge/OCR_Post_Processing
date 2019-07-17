@@ -1,0 +1,181 @@
+UNLV-ISRI OCR Word Accuracy Report Version 5.1
+----------------------------------------------
+     154   Words
+       0   Misrecognized
+  100.00%  Accuracy
+
+Stopwords
+   Count   Missed   %Right   Length
+       2        0   100.00        2
+       2        0   100.00    Total
+
+Non-stopwords
+   Count   Missed   %Right   Length
+      17        0   100.00        1
+      34        0   100.00        2
+      27        0   100.00        3
+      19        0   100.00        4
+      17        0   100.00        5
+      15        0   100.00        6
+       8        0   100.00        7
+       2        0   100.00        8
+       5        0   100.00        9
+       2        0   100.00       10
+       1        0   100.00       11
+       1        0   100.00       12
+       2        0   100.00       13
+       1        0   100.00       14
+       1        0   100.00       20
+     152        0   100.00    Total
+
+Distinct Non-stopwords
+   Count   Missed   %Right   Occurs
+     109        0   100.00        1
+       9        0   100.00        2
+       2        0   100.00        3
+       3        0   100.00        4
+       1        0   100.00        7
+     124        0   100.00    Total
+
+Phrases
+   Count   Missed   %Right   Length
+     154        0   100.00        1
+     153        0   100.00        2
+     152        0   100.00        3
+     151        0   100.00        4
+     150        0   100.00        5
+     149        0   100.00        6
+     148        0   100.00        7
+     147        0   100.00        8
+
+Stopwords
+   Count   Missed   %Right   
+       1        0   100.00   is
+       1        0   100.00   or
+
+Non-stopwords
+   Count   Missed   %Right   
+       1        0   100.00   adzans
+       4        0   100.00   af
+       1        0   100.00   afer
+       1        0   100.00   anstã
+       2        0   100.00   ar
+       1        0   100.00   aresi
+       1        0   100.00   befordrar
+       1        0   100.00   beskrifning
+       1        0   100.00   blifwa
+       1        0   100.00   blã
+       1        0   100.00   brackt
+       1        0   100.00   brytes
+       1        0   100.00   ch
+       1        0   100.00   criâ
+       1        0   100.00   curen
+       1        0   100.00   dan
+       1        0   100.00   de
+       1        0   100.00   den
+       2        0   100.00   denna
+       1        0   100.00   drcck
+       1        0   100.00   dricken
+       1        0   100.00   earmfotenxswã
+       1        0   100.00   eller
+       2        0   100.00   en
+       1        0   100.00   enxdetsomsurt
+       1        0   100.00   et
+       1        0   100.00   femã
+       1        0   100.00   fielfwa
+       1        0   100.00   fine
+       1        0   100.00   fomodrent
+       1        0   100.00   fz
+       4        0   100.00   fã
+       1        0   100.00   gifwer
+       1        0   100.00   god
+       1        0   100.00   gã
+       1        0   100.00   hafwa
+       1        0   100.00   hafwer
+       1        0   100.00   hwilcka
+       1        0   100.00   ibland
+       1        0   100.00   ij
+       1        0   100.00   inbil
+       1        0   100.00   j
+       1        0   100.00   jâ
+       2        0   100.00   k
+       1        0   100.00   kã
+       1        0   100.00   lenar
+       1        0   100.00   lindrin
+       1        0   100.00   makrona
+       1        0   100.00   manu
+       1        0   100.00   memci
+       1        0   100.00   mieltksotanx
+       1        0   100.00   min
+       1        0   100.00   mnn
+       1        0   100.00   myckenhet
+       1        0   100.00   mâ
+       1        0   100.00   mã
+       1        0   100.00   nde
+       1        0   100.00   ndermahl
+       1        0   100.00   ndrade
+       1        0   100.00   ng
+       1        0   100.00   niure
+       1        0   100.00   ntaf
+       7        0   100.00   och
+       1        0   100.00   orsack
+       1        0   100.00   oz
+       1        0   100.00   pamoneraruthafgyllen
+       1        0   100.00   paroxifmiâ
+       1        0   100.00   pnas
+       2        0   100.00   r
+       1        0   100.00   reck
+       1        0   100.00   rm
+       1        0   100.00   rmodighet
+       1        0   100.00   rstap
+       1        0   100.00   rstapmngar
+       1        0   100.00   rstoppningarna
+       1        0   100.00   rus
+       2        0   100.00   rã
+       4        0   100.00   s
+       1        0   100.00   samt
+       1        0   100.00   sand
+       1        0   100.00   sany
+       1        0   100.00   seller
+       1        0   100.00   sin
+       1        0   100.00   skar
+       1        0   100.00   skarpa
+       1        0   100.00   soch
+       1        0   100.00   spa
+       1        0   100.00   ss
+       2        0   100.00   steen
+       1        0   100.00   stge
+       1        0   100.00   stkorne
+       1        0   100.00   sura
+       2        0   100.00   sã
+       1        0   100.00   t
+       1        0   100.00   ta
+       1        0   100.00   ten
+       1        0   100.00   theras
+       1        0   100.00   therigess
+       1        0   100.00   thr
+       1        0   100.00   til
+       1        0   100.00   till
+       1        0   100.00   tjocka
+       1        0   100.00   tsiimen
+       1        0   100.00   tta
+       1        0   100.00   ty
+       1        0   100.00   upbkoter
+       1        0   100.00   urin
+       1        0   100.00   uthaf
+       1        0   100.00   uthi
+       2        0   100.00   uti
+       1        0   100.00   utikrã
+       1        0   100.00   utio
+       1        0   100.00   v
+       1        0   100.00   viggen
+       1        0   100.00   war
+       1        0   100.00   waw
+       1        0   100.00   wã
+       1        0   100.00   xiing
+       1        0   100.00   xts
+       1        0   100.00   yndeltg
+       1        0   100.00   yon
+       1        0   100.00   zâ
+       3        0   100.00   â
+       3        0   100.00   ã

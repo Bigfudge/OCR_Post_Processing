@@ -1,0 +1,8 @@
+Evaluation for directory: ./Evaluation-reports/2019-07-17 21:46/output/TesseractArgus/
+
+Prima evaluation:
+ WordAccuracy: 0.16494845360824742	 CharacterAccuracy:0.557623049219687 
+
+Språkbanken Evaluation Script:
+ Word Errorrate: 84.19243986254295	 Character Errorrate: 46.606606606606604 
+
