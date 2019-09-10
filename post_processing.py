@@ -83,55 +83,6 @@ def clean_run():
     if os.path.exists(c.trigrams_path):
         os.remove(c.trigrams_path)
 
-
-def post_processing_file(input_file, output_file=False):
-    sample_size = 0
-
-    if not h.is_non_zero_file(input_file):
-        print("Input file is empty or do not exsist.")
-        return
-
-    if '-c' in sys.argv:
-        clean_run()
-    if '-ss' in sys.argv:
-        sample_size = 30
-    if '-v' in sys.argv:
-        c.verbose = True
-
-    number_of_vectors_from_each_source = 8000
-    size_training_data = 10000
-    svm_kernal = "rbf"
-    c_value = 1
-    gamma = 1
-    max_words = 10000
-    max_trigrams = 15000
-    max_edit_distance = 8
-    min_edit_distance = 0
-
-    conf = Configuration(number_of_vectors_from_each_source,
-                         size_training_data,
-                         svm_kernal,
-                         c_value,
-                         gamma,
-                         max_words,
-                         max_trigrams,
-                         max_edit_distance,
-                         min_edit_distance,
-                         sample_size)
-
-    data = DataSet(conf)
-    svm_model, performace_report = word_classifier.train(conf)
-
-    corrected_text = process_file(input_file, svm_model, data, conf)
-
-    if output_file:
-        with open(output_file, 'w') as fd:
-            for word in corrected_text:
-                fd.write("%s " % word)
-    else:
-        print(' '.join(corrected_text))
-
-
 def main():
     sample_size = 0
 
@@ -141,7 +92,6 @@ def main():
         sample_size = 1
     if '-v' in sys.argv:
         c.verbose = True
-
     number_of_vectors_from_each_source = 8000
     size_training_data = 10000
     svm_kernal = "rbf"
@@ -235,4 +185,4 @@ class DataSet():
         self.tri_freq, self.word_freq, self.training_data = build_data_structure.build_data(configuration.max_trigrams,
                                                                                             configuration.max_words,
                                                                                             configuration.number_of_vectors_from_each_source)
-main()
+
